@@ -8,9 +8,9 @@ than the calendar.
 ## Progress Snapshot
 
 - **Current phase:** Phase 0 — Setup and orientation
-- **Current project:** None yet
+- **Current project:** Hello, iOS
 - **Last updated:** 2026-09-19
-- **Next milestone:** Run the first SwiftUI app in the simulator
+- **Next milestone:** Run Hello, iOS in two simulator sizes
 
 ### How to update this roadmap
 
